@@ -1,5 +1,6 @@
 FROM node:latest
 
+
 WORKDIR /home/choreouser
 
 COPY files/* /home/choreouser/
