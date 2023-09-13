@@ -1,6 +1,6 @@
 FROM node:latest
 
-LABEL build_date="2023-09-13 09:00:08"
+LABEL build_date="2023-09-13 12:00:12"
 
 WORKDIR /home/choreouser
 
